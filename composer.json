@@ -1,0 +1,17 @@
+{
+    "name": "t2v-05/curso-php-active-record",
+    "description": "ActiveRecord",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        },
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "odairsp",
+            "email": "odair.sp@hotmail.com"
+        }
+    ],
+    "require": {}
+}
