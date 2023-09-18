@@ -37,7 +37,7 @@ abstract class AciveRecord implements ActiveRecordInterface
     // }
     public function update(UpdateInterface $updateInterface)
     {
-        return $updateInterface->update();
+        return $updateInterface->update($this);
     }
     // public function insert()
     // {
